@@ -1,0 +1,12 @@
+{
+  "jwtPrivateKey": "jwtPrivateKey",
+  "jwtPrivateKeyExpiry": "jwtPrivateKeyExpiry",
+  "authentication": "authentication",
+  "authorization": "authorization",
+  "port": "port",
+  "dbUri": "dbUri",
+  "dbUser": "dbUser",
+  "dbPassword": "dbPassword",
+  "dbName":"dbName",
+  "dbType":"dbType"
+}

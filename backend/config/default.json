@@ -1,0 +1,12 @@
+{
+  "jwtPrivateKey": "local_jwt_secret",
+  "jwtPrivateKeyExpiry": "",
+  "authentication": true,
+  "authorization": true,
+  "port": "8080",
+  "dbUri":"localhost",
+  "dbUser":"root",
+  "dbPassword":"",
+  "dbName":"activity_db",
+  "dbType":"mysql"
+}

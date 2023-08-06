@@ -1,0 +1,13 @@
+.Activity .colLabel {
+  font-size: 14px;
+  text-align: right;
+  font-weight: bold;
+  color: #515365;
+}
+
+.Activity .colValue {
+  text-align: left;
+  font-size: 16px;
+  font-weight: bold;
+  color: #515365;
+}
